@@ -1,0 +1,15 @@
+/workspaces/Repository/bin/Debug/net7.0/sumadosnumeros
+/workspaces/Repository/bin/Debug/net7.0/sumadosnumeros.deps.json
+/workspaces/Repository/bin/Debug/net7.0/sumadosnumeros.runtimeconfig.json
+/workspaces/Repository/bin/Debug/net7.0/sumadosnumeros.dll
+/workspaces/Repository/bin/Debug/net7.0/sumadosnumeros.pdb
+/workspaces/Repository/obj/Debug/net7.0/sumadosnumeros.csproj.AssemblyReference.cache
+/workspaces/Repository/obj/Debug/net7.0/sumadosnumeros.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Repository/obj/Debug/net7.0/sumadosnumeros.AssemblyInfoInputs.cache
+/workspaces/Repository/obj/Debug/net7.0/sumadosnumeros.AssemblyInfo.cs
+/workspaces/Repository/obj/Debug/net7.0/sumadosnumeros.csproj.CoreCompileInputs.cache
+/workspaces/Repository/obj/Debug/net7.0/sumadosnumeros.dll
+/workspaces/Repository/obj/Debug/net7.0/refint/sumadosnumeros.dll
+/workspaces/Repository/obj/Debug/net7.0/sumadosnumeros.pdb
+/workspaces/Repository/obj/Debug/net7.0/sumadosnumeros.genruntimeconfig.cache
+/workspaces/Repository/obj/Debug/net7.0/ref/sumadosnumeros.dll
