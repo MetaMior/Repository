@@ -1,0 +1,15 @@
+/workspaces/Repository/obj/Debug/net7.0/holamundo.csproj.AssemblyReference.cache
+/workspaces/Repository/obj/Debug/net7.0/holamundo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Repository/obj/Debug/net7.0/holamundo.AssemblyInfoInputs.cache
+/workspaces/Repository/obj/Debug/net7.0/holamundo.AssemblyInfo.cs
+/workspaces/Repository/obj/Debug/net7.0/holamundo.csproj.CoreCompileInputs.cache
+/workspaces/Repository/bin/Debug/net7.0/holamundo
+/workspaces/Repository/bin/Debug/net7.0/holamundo.deps.json
+/workspaces/Repository/bin/Debug/net7.0/holamundo.runtimeconfig.json
+/workspaces/Repository/bin/Debug/net7.0/holamundo.dll
+/workspaces/Repository/bin/Debug/net7.0/holamundo.pdb
+/workspaces/Repository/obj/Debug/net7.0/holamundo.dll
+/workspaces/Repository/obj/Debug/net7.0/refint/holamundo.dll
+/workspaces/Repository/obj/Debug/net7.0/holamundo.pdb
+/workspaces/Repository/obj/Debug/net7.0/holamundo.genruntimeconfig.cache
+/workspaces/Repository/obj/Debug/net7.0/ref/holamundo.dll

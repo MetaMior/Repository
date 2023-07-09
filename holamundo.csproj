@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Remove="sumadosnumeros.cs" />
-    <Compile Include="sumadosnumeros.cs" />
+    <Compile Remove="holamundo.cs" />
+    <Compile Include="holamundo.cs" />
   </ItemGroup>
 </Project>
